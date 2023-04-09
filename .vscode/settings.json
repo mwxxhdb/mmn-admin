@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "java.completion.importOrder": ["#"],
+  "[java]": {
+    "editor.defaultFormatter": "mwpb.java-prettier-formatter"
+  }
+}

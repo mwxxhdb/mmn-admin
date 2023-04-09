@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Morven Hou",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
 }
